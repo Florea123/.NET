@@ -1,0 +1,15 @@
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\bin\Debug\net9.0\Program.exe
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\bin\Debug\net9.0\Program.deps.json
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\bin\Debug\net9.0\Program.runtimeconfig.json
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\bin\Debug\net9.0\Program.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\bin\Debug\net9.0\Program.pdb
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.AssemblyInfoInputs.cache
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.AssemblyInfo.cs
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.sourcelink.json
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\refint\Program.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.pdb
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\Program.genruntimeconfig.cache
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\Lab2\LibraryBookAndBorrowerTracker\Program\obj\Debug\net9.0\ref\Program.dll

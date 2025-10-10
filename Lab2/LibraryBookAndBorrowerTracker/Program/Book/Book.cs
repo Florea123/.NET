@@ -1,0 +1,2 @@
+﻿
+public record Book(string Title, string Author, int YearPublished);
