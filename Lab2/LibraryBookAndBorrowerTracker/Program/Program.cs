@@ -1,4 +1,3 @@
-﻿//Add coments to explain the code
 void DisplayInfo(object obj)//Method to display information based on the type of object
 {
     switch (obj)//Pattern matching with switch expression
