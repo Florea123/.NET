@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagementAPI", "ProductManagementAPI\ProductManagementAPI.csproj", "{2491E4AD-35D5-42C1-A75E-965A0F02D1A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2491E4AD-35D5-42C1-A75E-965A0F02D1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2491E4AD-35D5-42C1-A75E-965A0F02D1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2491E4AD-35D5-42C1-A75E-965A0F02D1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2491E4AD-35D5-42C1-A75E-965A0F02D1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

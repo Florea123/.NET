@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OX0XmyQJQHI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\booco\\Desktop\\Documente\\Git-NET\\.NET\\ProductManagementAPI\\ProductManagementAPI\\ProductManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\booco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\booco\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
