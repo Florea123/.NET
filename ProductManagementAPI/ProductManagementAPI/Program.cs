@@ -2,6 +2,7 @@ using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using ProductManagementAPI.Features.Products;
 using ProductManagementAPI.Persistance;
+using ProductManagementAPI.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,7 @@ builder.Services.AddDbContext<ProductManagementContext>(options =>
 builder.Services.AddScoped<CreateProductHandler>();
 builder.Services.AddScoped<GetAllProductsHandler>();
 builder.Services.AddScoped<DeleteProductHandler>();
+builder.Services.AddValidatorsFromAssemblyContaining<CreateProductValidator>();
 
 builder.Services.AddSwaggerGen(c =>
 {
