@@ -1,8 +1,9 @@
 ﻿using System.Net;
 using System.Text.Json;
-using UserManagement.Exceptions;
+using ProductManagementAPI;
+using ProductManagementAPI.Exceptions;
 
-namespace UserManagement.Middleware;
+namespace ProductManagementAPI.Middleware;
 
 public class GlobalExceptionMiddleware
 {
