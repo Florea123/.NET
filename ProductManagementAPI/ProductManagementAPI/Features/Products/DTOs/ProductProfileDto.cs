@@ -1,4 +1,7 @@
-﻿namespace ProductManagementAPI.Features.Products.DTOs;
+﻿
+using System;
+
+namespace ProductManagementAPI.Features.Products.DTOs;
 
 public class ProductProfileDto
 {
@@ -14,4 +17,8 @@ public class ProductProfileDto
     public string? ImageUrl { get; set; }
     public bool IsAvailable { get; set; }
     public int StockQuantity { get; set; } = 0;
+    
+    public string ProductAge { get; set; } = string.Empty;
+    public string BrandInitials { get; set; } = string.Empty;
+    public string AvailabilityStatus { get; set; } = string.Empty;
 }

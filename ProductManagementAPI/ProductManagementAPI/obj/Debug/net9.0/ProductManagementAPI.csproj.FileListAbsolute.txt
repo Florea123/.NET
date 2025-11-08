@@ -159,3 +159,12 @@ C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManage
 C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\obj\Debug\net9.0\ProductManagementAPI.pdb
 C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\obj\Debug\net9.0\ProductManagementAPI.genruntimeconfig.cache
 C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\obj\Debug\net9.0\ref\ProductManagementAPI.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\Moq.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\xunit.assert.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\xunit.core.dll
+C:\Users\booco\Desktop\Documente\Git-NET\.NET\ProductManagementAPI\ProductManagementAPI\bin\Debug\net9.0\xunit.execution.dotnet.dll

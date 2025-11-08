@@ -1,4 +1,4 @@
-﻿namespace UserManagement.Exceptions;
+﻿namespace ProductManagementAPI.Exceptions;
 
 public class BaseException : Exception
 {

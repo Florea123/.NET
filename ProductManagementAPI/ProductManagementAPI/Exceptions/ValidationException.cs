@@ -1,16 +1,21 @@
-﻿namespace UserManagement.Exceptions;
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace ProductManagementAPI.Exceptions;
 
 public class ValidationException : BaseException
 {
     public List<string> Errors { get; }
-    protected ValidationException(IEnumerable<string> errors) 
-        : base("Validation failed",400, "VALIDATION_FAILED")
+
+    public ValidationException(IEnumerable<string> errors)
+        : base("Validation failed", 400, "VALIDATION_FAILED")
     {
-        Errors = errors.ToList();
+        Errors = errors?.ToList() ?? new List<string>();
     }
-    
-    protected ValidationException(string error) : base("Validation failed",400, "VALIDATION_FAILED")
+
+    public ValidationException(string error)
+        : base("Validation failed", 400, "VALIDATION_FAILED")
     {
-        Errors = [error];
+        Errors = new List<string> { error };
     }
 }
